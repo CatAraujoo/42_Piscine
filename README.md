@@ -3,5 +3,5 @@ Piscine is a rigorous 4-week program focused on developing your coding skills an
 This intensive coding bootcamp is designed to immerse you in programming and prepare you for your journey through the 42 curriculum.
 
 # Projects
-## C00 - Introduction to C
-C00 
+## https://github.com/CatAraujoo/42_Piscine/tree/b788f298df158b40f1fb4608d4fef24cb70c02f2/C00 - Introduction to C
+
