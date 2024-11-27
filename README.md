@@ -5,6 +5,7 @@ This intensive coding bootcamp is designed to immerse you in programming and pre
 # Projects
 ## <a href="https://github.com/CatAraujoo/42_Piscine/tree/b788f298df158b40f1fb4608d4fef24cb70c02f2/C00">C00</a> - Introduction to C
 
-<a href="https://github.com/CatAraujoo/42_Piscine/tree/1731e2bf3556eb825e5d75df086757ba49a0a411/C00/ex00">ft_putchar</a> - Print a charater
-
+<ul>
+  <li> <a href="https://github.com/CatAraujoo/42_Piscine/tree/1731e2bf3556eb825e5d75df086757ba49a0a411/C00/ex00">ft_putchar</a> - Print a charater </li>
+  <li> <a href="https://github.com/CatAraujoo/42_Piscine/tree/52eb9aae42c8880e8f1f87a1b00dd663a5f03129/C00/ex01">ft_putchar</a> - Print alphabet </li>
 
