@@ -13,7 +13,9 @@ This intensive coding bootcamp is designed to immerse you in programming and pre
 <li> <a href="https://github.com/CatAraujoo/42_Piscine/blob/0da32d0051f8970e165d0f8d05efa0ff974e26b4/C00/ex04/ft_is_negative.c">ft_is_negative</a> - Print 'N' for negative numbers and 'P' for positive </li>
 <li> <a href="https://github.com/CatAraujoo/42_Piscine/blob/0da32d0051f8970e165d0f8d05efa0ff974e26b4/C00/ex05/ft_print_comb.c">ft_print_comb</a> - Combine Numbers into Different Double Combinations </li>
 </ul>
-## <a href="https://github.com/CatAraujoo/42_Piscine/tree/b788f298df158b40f1fb4608d4fef24cb70c02f2/C00">C00</a> - Pointers and Statements
+
+## <a href="https://github.com/CatAraujoo/42_Piscine/tree/b7221eafce0234f5004dfcabd3cb9dd7f78530ba/C01">C01</a> - Pointers and Statements
+
 <ul>
   <li><a href="https://github.com/CatAraujoo/42_Piscine/blob/8889ea3fe7c5a30982704c464fb420500d2a32ba/C01/ex00/ft_ft.c">ft_ft</a> - Make a pointer to 42</li>
   <li><a href="https://github.com/CatAraujoo/42_Piscine/blob/8889ea3fe7c5a30982704c464fb420500d2a32ba/C01/ex01/ft_ultimate_ft.c">ft_ltimate_ft</a> - Make a pointer to a pointer to a... to 42</li>
