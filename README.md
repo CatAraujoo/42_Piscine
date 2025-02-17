@@ -3,7 +3,8 @@ Piscine is a rigorous 4-week program focused on developing your coding skills an
 This intensive coding bootcamp is designed to immerse you in programming and prepare you for your journey through the 42 curriculum.
 
 # Project Status
-| First Header  | Second Header | First Header  |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  |
+| Project Name  | Grade | Languade |
+| ------------- | ----- | -------- |
+| Shell00  | 70%  | Shell 
+| Shell01  | 55%  | Shell
+| C00 | 60% | C
