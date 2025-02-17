@@ -1,5 +1,6 @@
 # 42 Piscine
 Welcome to my 42 Piscine repository! This repository documents my journey through the 42 Piscine, showcasing my progress, projects and the skills I developed during the intensive month-long experience.
+
 The 42 Piscine is a rigorous and immersive coding bootcamp designed to test and develop problem-solving skills, coding proficiency and the ability to work under pressure. It serves as a selection process for the 42 school, where students learn through peer-to-peer collaboration and project-based learning.
 Moulinette is the automated grading system used at 42. It evaluates your projects and exercises by running a series of tests to ensure that your code meets the required specifications. The results from Moulinette help you understand where your code needs improvement.
 
@@ -41,5 +42,3 @@ Exams are an integral part of the 42 Piscine. They are designed to test your und
 - **Shell Scripting**: Proficiency in writing and debugging shell scripts.
 - **Problem-Solving**: Enhanced ability to tackle complex problems and develop efficient solutions.
 - **Collaboration**: Experience working in teams and collaborating on projects.
-
-- 
