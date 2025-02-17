@@ -1,6 +1,7 @@
 # 42 Piscine
-Piscine is a rigorous 4-week program focused on developing your coding skills and problem-solving abilities. During this period, you will engage in a series of challenges and projects to develop those skills.
-This intensive coding bootcamp is designed to immerse you in programming and prepare you for your journey through the 42 curriculum.
+Welcome to my 42 Piscine repository! This repository documents my journey through the 42 Piscine, showcasing my progress, projects and the skills I developed during the intensive month-long experience.
+The 42 Piscine is a rigorous and immersive coding bootcamp designed to test and develop problem-solving skills, coding proficiency and the ability to work under pressure. It serves as a selection process for the 42 school, where students learn through peer-to-peer collaboration and project-based learning.
+Moulinette is the automated grading system used at 42. It evaluates your projects and exercises by running a series of tests to ensure that your code meets the required specifications. The results from Moulinette help you understand where your code needs improvement.
 
 # Project Status
 | Project Name                                                                           | Grade   | Languade   | Concepts | 
@@ -23,6 +24,7 @@ This intensive coding bootcamp is designed to immerse you in programming and pre
 | C13      | Not started | C | Binary Search Trees |
 
 # Rushs and Exams
+Exams are an integral part of the 42 Piscine. They are designed to test your understanding of the concepts learned and your ability to solve problems under time constraints. Each exam consists of multiple exercises that you must complete within a set time limit.
 
 | Type  | Name | Grade | Status
 |  :---:   |  :---:  |  :---:  | :---:  |
@@ -33,3 +35,11 @@ This intensive coding bootcamp is designed to immerse you in programming and pre
 | Rush  | Rush00 | 125% | Success ✅
 | Rush  | Rush01 | Not started | -
 | Rush  | Rush02 | Not started | -
+
+# Skills
+- **C Programming**: Mastery of C syntax, pointers, memory management, and data structures.
+- **Shell Scripting**: Proficiency in writing and debugging shell scripts.
+- **Problem-Solving**: Enhanced ability to tackle complex problems and develop efficient solutions.
+- **Collaboration**: Experience working in teams and collaborating on projects.
+
+- 
