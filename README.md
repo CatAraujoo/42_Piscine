@@ -4,7 +4,7 @@ This intensive coding bootcamp is designed to immerse you in programming and pre
 
 # Project Status
 | Project Name  | Grade | Languade |
-| ------------- | ----- | -------- |
-| Shell00  |  70% | Shell 
-| Shell01  |  55% | Shell
-| C00      |  60% |   C
+|  :---:   |  :---:  |  :---:  |
+| Shell00  | 70% | Shell 
+| Shell01  | 55% | Shell
+| C00      | 60% | C
