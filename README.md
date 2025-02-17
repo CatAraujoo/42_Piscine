@@ -3,11 +3,11 @@ Piscine is a rigorous 4-week program focused on developing your coding skills an
 This intensive coding bootcamp is designed to immerse you in programming and prepare you for your journey through the 42 curriculum.
 
 # Project Status
-| Project Name  | Grade | Languade | Concepts | 
-|  :---------------------------------------------------------------------------------:   |  :---:  |  :---:  | :---:  |  :---:  |
-| <a href="https://github.com/CatAraujoo/42_Piscine/tree/main/Shell00">Shell00</a>  | 70% ✅ | Shell | Shell basics | 
-| <a href="https://github.com/CatAraujoo/42_Piscine/tree/main/Shell01">Shell01</a> | 55% ✅ | Shell | Shell basics |
-| <a href="https://github.com/CatAraujoo/42_Piscine/tree/main/C00">C00</a> | 60% ✅ | C | Introduction to C |
+| Project Name                                                                           | Grade   | Languade   | Concepts | 
+|  :---------------------------------------------------------------------------------:   |  :---:  |  :------:  | :---:  |
+| <a href="https://github.com/CatAraujoo/42_Piscine/tree/main/Shell00">Shell00</a>       | 70% ✅ | Shell       | Shell basics | 
+| <a href="https://github.com/CatAraujoo/42_Piscine/tree/main/Shell01">Shell01</a>       | 55% ✅ | Shell       | Shell basics |
+| <a href="https://github.com/CatAraujoo/42_Piscine/tree/main/C00">C00</a>               | 60% ✅ | C           | Introduction to C |
 | <a href="https://github.com/CatAraujoo/42_Piscine/tree/main/C01">C01</a>      | 60% ✅ | C | Pointers |
 | <a href="https://github.com/CatAraujoo/42_Piscine/tree/main/C01">C02</a> | 75% ✅ | C | Strings & Arrays |
 | <a href="https://github.com/CatAraujoo/42_Piscine/tree/main/C01">C03</a> | 75% ✅ | C | String Manipulation |
