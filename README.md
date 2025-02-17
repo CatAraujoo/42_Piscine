@@ -5,7 +5,7 @@ This intensive coding bootcamp is designed to immerse you in programming and pre
 # Project Status
 | Project Name  | Grade | Languade | Concepts | 
 |  :---:   |  :---:  |  :---:  | :---:  |  :---:  |
-| <a href="https://www.yourhomepage.com](https://github.com/CatAraujoo/42_Piscine/tree/main/Shell00">Shell00</a>  | 70% ✅ | Shell | Shell basics | 
+| <a href="[https://www.yourhomepage.com](https://github.com/CatAraujoo/42_Piscine/tree/main/Shell00)">Shell00</a>  | 70% ✅ | Shell | Shell basics | 
 | <a href="https://github.com/CatAraujoo/42_Piscine/tree/main/Shell01">Shell01</a> | 55% ✅ | Shell | Shell basics |
 | C00      | 60% ✅ | C | Introduction to C |
 | C01      | 60% ✅ | C | Pointers |
